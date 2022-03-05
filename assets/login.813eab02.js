@@ -1,1 +1,0 @@
-import{s as o}from"./plugin-vue_export-helper.708d9bd8.js";function r(t){return o({url:"/manager/login",method:"post",data:t})}function n(t){return o({url:"/manager/logout",method:"post",data:t})}export{r as g,n as l};
